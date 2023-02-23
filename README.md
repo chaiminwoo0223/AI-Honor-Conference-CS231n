@@ -22,7 +22,6 @@ Sungkonhoe Univ AI Honor Conference 1st CS231n study
 
 <h2> 스터디 일정 </h5>
 
-<br>
 
 |순번|날짜|진행|
 |:---:|:---:|:---:|
