@@ -26,14 +26,14 @@ SungKongHoe Univ.  AI Honor Conference 1st CS231n study
 
 |순번|날짜|진행|
 |:---:|:---:|:---:|
-|1|*3/5~3/11*|**Lecture 1**|
-|2|*3/12~3/18*|**Lecture 2, Lecture 3**|
-|3|*3/19~3/25*|**Lecture 4, Lecture 5**|
-|4|*3/26~4/1*|**Lecture 6, Lecture 7**|
-|5|*4/2~4/8*|**Lecture 8, Lecture 9**|
-|6|*4/9~4/15*|**Lecture 10, Lecture 11**|
-|7|*4/30~4/15*|**Lecture 12, Lecture 13**|
-|8|*5/7~5/13*|**Lecture 14, Lecture 15**|
-|9|*5/14~5/20*|**Lecture 16 & 발표**|
-|10|*5/21~5/27*|**CNN 관련 논문 리딩**|
-|11|*5/28~6/3*|**CNN 관련 논문 리딩**|
+|1|*3/6*|**Lecture 1**|
+|2|*3/13*|**Lecture 2, Lecture 3**|
+|3|*3/20*|**Lecture 4, Lecture 5**|
+|4|*3/27*|**Lecture 6, Lecture 7**|
+|5|*4/3*|**Lecture 8, Lecture 9**|
+|6|*4/10*|**Lecture 10, Lecture 11**|
+|7|*5/1*|**Lecture 12, Lecture 13**|
+|8|*5/8*|**Lecture 14, Lecture 15**|
+|9|*5/15*|**Lecture 16 & 발표**|
+|10|*5/22*|**CNN 관련 논문 리딩**|
+|11|*5/29*|**CNN 관련 논문 리딩**|
